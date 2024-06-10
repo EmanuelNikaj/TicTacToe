@@ -1,0 +1,32 @@
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.exe
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.deps.json
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.dll
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.pdb
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.dll
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\refint\Tic Tac Toe.dll
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.pdb
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\emanu\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\ref\Tic Tac Toe.dll
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.exe
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.deps.json
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.dll
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.pdb
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.dll
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\refint\Tic Tac Toe.dll
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.pdb
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\emanu\OneDrive\Υπολογιστής\gamesForGitHub\TicTacToe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0-windows\ref\Tic Tac Toe.dll
